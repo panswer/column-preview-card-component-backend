@@ -1,0 +1,21 @@
+{
+  "name": "column-preview-card-component-backend",
+  "version": "1.0.0",
+  "description": "my backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "column",
+    "preview",
+    "card",
+    "component"
+  ],
+  "author": "ricardo mejias",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
